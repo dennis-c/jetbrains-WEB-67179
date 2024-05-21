@@ -1,0 +1,14 @@
+{
+	"plugins": [
+		"@typescript-eslint/eslint-plugin",
+		"unused-imports"
+	],
+	"rules": {
+		"@typescript-eslint/no-unused-vars": "warn",
+		"unused-imports/no-unused-imports": "error"
+	},
+	"parserOptions": {
+		"sourceType": "module",
+		"ecmaVersion": 2018
+	}
+}

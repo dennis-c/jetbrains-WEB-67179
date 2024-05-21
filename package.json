@@ -1,0 +1,15 @@
+{
+	"name": "jetbrains-web-67179",
+	"version": "1.0.0",
+	"license": "UNLICENSED",
+	"files": [
+		"example.ts"
+	],
+	"main": "example.ts",
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^6.7.3",
+		"eslint": "^8.3.0",
+		"eslint-plugin-unused-imports": "^3.2.0",
+		"typescript": "^5.1.6"
+	}
+}
